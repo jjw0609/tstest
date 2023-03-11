@@ -6,11 +6,11 @@
     "node_modules"
   ],
   "compilerOptions": {
+    "module": "Commonjs",
     "rootDir": "src",
     "outDir": "build",
-    "target": "es6",
+    "target": "ES6",
     "lib": ["ES2015","ES6","DOM", "DOM.iterable"],
-    "sourceMap": true,
     "removeComments": true,
 }
 }
