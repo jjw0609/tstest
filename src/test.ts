@@ -1,3 +1,6 @@
+
+console.log('test');
+
 export const firstFunction = (param1: string, param2: number) => {
     return { param1: param1, param2: param2 };
 }
