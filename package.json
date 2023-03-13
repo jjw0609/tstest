@@ -10,7 +10,7 @@
     "build": "tsc",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "node ./build/index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
