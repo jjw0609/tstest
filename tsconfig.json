@@ -9,7 +9,7 @@
     "module": "Commonjs",
     "allowJs": true,
     "rootDir": "src",
-    "outDir": "build",
+    "outDir": "dist",
     "target": "ES6",
     "lib": ["ES2015","ES6","DOM", "DOM.iterable"],
     "removeComments": true,
